@@ -43,7 +43,7 @@ I like my tech like I like my coffee:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/saahil-mahato-6810ba171/)
 - 𝕏 [X (Twitter)](https://x.com/codesaahil)
-- 🎓 [Google Scholar] (https://scholar.google.com/citations?user=FSQRL4sAAAAJ&hl=en)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=FSQRL4sAAAAJ&hl=en)
 ---
 
 > _Code is poetry. AI is the muse. Shipping is the revolution._
