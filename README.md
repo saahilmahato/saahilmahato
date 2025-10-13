@@ -27,27 +27,11 @@ Research doesn't need a grant. Just curiosity, time, and a little RAM.
 
 ---
 
-## 🧠 What Drives Me
-
-I like my tech like I like my coffee:  
-**Fast. Bold. No unnecessary sugar.**
-
-- I chase clarity over complexity.  
-- I romanticize source code and terminal logs.  
-- I design systems that scale down, not just up.  
-- I’m here to prove that one focused dev can build wonders.
-
----
-
 ## 🌐 Find Me Online
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/saahil-mahato-6810ba171/)
-- 𝕏 [X (Twitter)](https://x.com/codesaahil)
+- 💼 [LinkedIn](https://www.linkedin.com/in/saahilmahato/)
+- 𝕏 [X (Twitter)](https://x.com/saahilxsaahil)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=FSQRL4sAAAAJ&hl=en)
----
-
-> _Code is poetry. AI is the muse. Shipping is the revolution._
-> — Saahil
 
 ---
 
