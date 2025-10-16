@@ -35,6 +35,7 @@ Research doesn't need a grant. Just curiosity, time, and a little RAM.
 
 ---
 
+[![An image of @saahilmahato7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saahilmahato7)](https://holopin.io/@saahilmahato7)
 ![Saahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saahilmahato&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saahilmahato&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=saahilmahato&theme=radical)
