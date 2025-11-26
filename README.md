@@ -1,6 +1,6 @@
 # 👋 Yo, I’m Saahil
 
-💻 Software Engineer | 🧠 AI Engineer | 🛠️ Indie Developer 
+💻 Software Engineer | 🛠️ Indie Developer 
 
 Crafting intelligent systems with minimal compute and maximal intent.
 
