@@ -6,17 +6,6 @@
 
 ---
 
-## 🧭 About Me
-
-I’m a Software Engineer with **4 years of experience** shipping production code. My professional focus lies in **Full Stack architecture** and **application security**, hardening systems and ensuring they scale without breaking.
-
-But my academic roots—and my curiosity—are in **Artificial Intelligence**.
-While I spend my days building reliable software, I spend my downtime exploring what’s next. I treat my GitHub as a lab for solo research, bridging the gap between rigorous engineering and experimental ML.
-
-I like code that is secure by default and smart by design.
-
----
-
 ## 💻 The Toolkit
 
 | 🧩 Layer | 🔧 Tech Stack |
