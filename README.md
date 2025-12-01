@@ -1,6 +1,6 @@
 # Hey, I'm Saahil 👋
 
-[![Holopin badges](https://holopin.io/api/user/badges?user=saahilmahto)](https://holopin.io/@saahilmahto)
+[![An image of @saahilmahato7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saahilmahato7)](https://holopin.io/@saahilmahato7)
 
 Full-stack engineer from Nepal.
 
@@ -11,12 +11,12 @@ When I’m not shipping production code, I’m usually lost in side projects inv
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=saahilmahto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Saahil's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saahilmahto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  [![Saahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=saahilmahato&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saahilmahato&size_weight=0.5&count_weight=0.5&theme=onedark)
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saahilmahto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=saahilmahato&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
