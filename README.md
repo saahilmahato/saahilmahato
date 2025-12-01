@@ -9,16 +9,7 @@ I get a strange satisfaction from turning legacy monoliths into something mainta
 
 When I’m not shipping production code, I’m usually lost in side projects involving AI, simulation environments, or whatever rabbit hole sounded fun at 11 PM.
 
-<div align="center">
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saahilmahato&show_icons=true&theme=dracula)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saahilmahato&size_weight=0.5&count_weight=0.5&theme=dracula)
-
-  <br/><br/>
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=saahilmahato&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=saahilmahato&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 Currently obsessed with:
 - Systems that scale without drama
