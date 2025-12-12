@@ -9,7 +9,4 @@
   - AI: **PyTorch**
 - Always open to feedback on my repos. Hit me with the tough love 👀
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=saahilmahato&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![An image of @saahilmahato7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saahilmahato7)](https://holopin.io/@saahilmahato7)
