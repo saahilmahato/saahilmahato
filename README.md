@@ -30,12 +30,6 @@
 
 </div>
 
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=saahilmahato&theme=radical&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ## 🏅 Holopin Badges
 <div align="center">
 
