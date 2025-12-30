@@ -1,7 +1,12 @@
-# 👋 Hi there! I'm Saahil 🚀
+# 👋 Hi there! I'm Saahil
 
-- Software Development  Engineer specializing in web applications.  
-- Passionate about exploring emerging technologies .
+SDE-2 | Building web applications | Exploring AI and new technologies
+
+
+### What I'm focused on
+- Writing and improving production web applications
+- Studying and experimenting with AI/ML concepts
+- Staying curious about new tools and approaches in tech
 - Current favorite tools:  
 
   ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
