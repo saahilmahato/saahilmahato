@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Saahil
+# 👋 Hi! I'm Saahil
 
 SDE-2 | Building web applications | Exploring AI and new technologies
 
@@ -17,23 +17,6 @@ SDE-2 | Building web applications | Exploring AI and new technologies
 [![Portfolio](https://img.shields.io/badge/Portfolio-saahilmahato.com.np-blue?style=flat&logo=google-chrome)](http://saahilmahato.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saahilmahato/)
 [![Twitter](https://img.shields.io/badge/X-Follow-black?style=flat)](https://x.com/saahilxmahato)
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=saahilmahato&show_icons=true&theme=radical&hide_border=true" alt="Saahil's GitHub stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saahilmahato&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ## 🏅 Holopin Badges
 <div align="center">
