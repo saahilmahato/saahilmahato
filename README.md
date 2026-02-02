@@ -1,17 +1,19 @@
-# 👋 Hi! I'm Saahil
+Hi, I’m Saahil 👋
 
-SDE-2 | Building web applications | Exploring AI and new technologies
+Software engineer who likes building simple, reliable things and learning how systems work.
 
+Tech I use
 
-### What I'm focused on
-- Writing and improving production web applications
-- Studying and experimenting with AI/ML concepts
-- Staying curious about new tools and approaches in tech
-- Current favorite tools:  
+Go, JavaScript / TypeScript, C++
 
-  ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
-  ![Go Fiber](https://img.shields.io/badge/Go%20Fiber-00ADD8?style=flat&logo=go&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+SvelteKit (frontend), Go Fiber (backend)
+
+My profile is a mix of projects, experiments, and learning notes.
+Just code, progress, and the occasional bug.
+
+Thanks for stopping by ✌️
+
+---
 
 ## 🔧 Quick Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-saahilmahato.com.np-blue?style=flat&logo=google-chrome)](http://saahilmahato.com.np)
@@ -24,5 +26,3 @@ SDE-2 | Building web applications | Exploring AI and new technologies
 [![Holopin board](https://holopin.me/saahilmahato7)](https://holopin.io/@saahilmahato7)
 
 </div>
-
-Thanks for stopping by — let's build something awesome together! ✨
