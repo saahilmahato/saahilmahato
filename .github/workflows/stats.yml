@@ -1,0 +1,35 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate stats
+        run: |
+          npm install -g github-readme-stats
+          node scripts/generate-stats.js
+
+      - name: Commit stats
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add assets/*.svg
+          git commit -m "Update stats" || echo "No changes"
+          git push

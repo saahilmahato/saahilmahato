@@ -1,28 +1,45 @@
-Hi, I’m Saahil 👋
+# Hey there! 👋 I'm Saahil
 
-Software engineer who likes building simple, reliable things and learning how systems work.
+Full-Stack Developer @ Cedar Gate Technologies 💼
 
-Tech I use
+I'm someone who gets excited about understanding *how things actually work*. Right now, that means diving into operating systems, networking, and AI/ML — not just to use them, but to really get what's happening under the hood.
 
-Go, JavaScript / TypeScript, C++
+I love building things that solve real problems, and I believe good software comes from understanding fundamentals rather than just stacking frameworks.
 
-SvelteKit (frontend), Go Fiber (backend)
+## 🛠️ What I Work With
 
-My profile is a mix of projects, experiments, and learning notes.
-Just code, progress, and the occasional bug.
+**Languages I enjoy:**
 
-Thanks for stopping by ✌️
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
----
+**Frameworks I use:**
 
-## 🔧 Quick Links
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Fiber](https://img.shields.io/badge/Go_Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+I'm pretty framework-agnostic — I pick up tools based on what the project needs. That said, I do have a thing for Go Fiber when I need something fast and elegant.
+
+## 🌱 Currently Learning
+
+📚 Core CS concepts (OS & Networking)  
+🤖 AI & Machine Learning  
+🏗️ System Design patterns
+
+## 📫 Let's Connect
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-saahilmahato.com.np-blue?style=flat&logo=google-chrome)](http://saahilmahato.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saahilmahato/)
 [![Twitter](https://img.shields.io/badge/X-Follow-black?style=flat)](https://x.com/saahilxmahato)
 
+## 📊 GitHub Stats
+
+![Stats](assets/stats.svg)
+![Top Languages](assets/top-langs.svg)
+
 ## 🏅 Holopin Badges
-<div align="center">
 
 [![Holopin board](https://holopin.me/saahilmahato7)](https://holopin.io/@saahilmahato7)
-
-</div>
