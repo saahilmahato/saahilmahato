@@ -1,6 +1,6 @@
-# Hey there! 👋 I'm Saahil
+# Hi! 👋 I'm Saahil
 
-Full-Stack Developer @ Cedar Gate Technologies 💼
+SDE-2 @ Cedar Gate Technologies 💼
 
 I'm someone who gets excited about understanding *how things actually work*. Right now, that means diving into operating systems, networking, and AI/ML — not just to use them, but to really get what's happening under the hood.
 
