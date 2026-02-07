@@ -37,8 +37,9 @@ I'm pretty framework-agnostic — I pick up tools based on what the project need
 
 ## 📊 GitHub Stats
 
-![Stats](assets/stats.svg)
-![Top Languages](assets/top-langs.svg)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ## 🏅 Holopin Badges
 
