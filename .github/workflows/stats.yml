@@ -31,30 +31,6 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate wakatime card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: wakatime
-          options: username=octocat&layout=compact
-          path: profile/wakatime.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate gist card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: gist
-          options: id=0123456789abcdef
-          path: profile/gist.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate json options
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: '{"username":"octocat","show_icons":true,"hide_rank":true}'
-          path: profile/json-options.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
