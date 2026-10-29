@@ -1,45 +1,41 @@
-# Hi! 👋 I'm Saahil
+# Hi, I'm Saahil Mahato 👋
 
-SDE-2 @ IQVIA 💼
+**Software Development Engineer II @ IQVIA**
 
-I'm someone who gets excited about understanding *how things actually work*. Right now, that means diving into operating systems, networking, and AI/ML — not just to use them, but to really get what's happening under the hood.
+I'm a software engineer interested in building reliable software and understanding the systems that make it work.
 
-I love building things that solve real problems, and I believe good software comes from understanding fundamentals rather than just stacking frameworks.
+My day-to-day work focuses on backend development with Java and Spring Boot, alongside frontend development. Outside of work, I'm exploring operating systems, networking, system design, and AI to deepen my understanding of computer science fundamentals.
 
-## 🛠️ What I Work With
+I enjoy solving practical engineering problems, learning how things work under the hood, and building projects that turn ideas into working software.
 
-**Languages I enjoy:**
+## 🛠️ Technologies
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+**Languages**
 
-**Frameworks I use:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Fiber](https://img.shields.io/badge/Go_Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+**Frameworks & Libraries**
 
-I'm pretty framework-agnostic — I pick up tools based on what the project needs. That said, I do have a thing for Go Fiber when I need something fast and elegant.
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-## 🌱 Currently Learning
+I choose tools based on the problem at hand, with a particular interest in backend engineering, API design, and efficient systems.
 
-📚 Core CS concepts (OS & Networking)  
-🤖 AI & Machine Learning  
-🏗️ System Design patterns
+## 📚 Currently Exploring
 
-## 📫 Let's Connect
+- **Computer science fundamentals:** Operating systems and networking
+- **System design:** Distributed systems, scalability, and reliability
+- **AI & machine learning:** Understanding the technology beyond the API
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-saahilmahato.com.np-blue?style=flat&logo=google-chrome)](http://saahilmahato.com.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saahilmahato/)
-[![Twitter](https://img.shields.io/badge/X-Follow-black?style=flat)](https://x.com/saahilxmahato)
+## 📊 GitHub Activity
 
-## 📊 GitHub Stats
-
-![Stats](./profile/stats.svg)
+![GitHub Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 
-## 🏅 Holopin Badges
+## 🔗 Find Me Elsewhere
 
-[![Holopin board](https://holopin.me/saahilmahato7)](https://holopin.io/@saahilmahato7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?style=flat-square&logo=google-chrome&logoColor=white)](http://saahilmahato.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saahilmahato/)
+
+[![Holopin Badges](https://holopin.me/saahilmahato7)](https://holopin.io/@saahilmahato7)
