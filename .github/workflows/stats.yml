@@ -19,39 +19,39 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
-        with:
-          persist-credentials: true
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide=stars
+          options: 'username=${{ github.repository_owner }}&show_icons=true&hide=stars'
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=6'
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Validate generated cards
         run: |
           set -e
 
           for file in profile/stats.svg profile/top-langs.svg; do
-            if [ ! -s "$file" ]; then
+            test -s "$file" || {
               echo "::error::Missing or empty SVG: $file"
               exit 1
-            fi
+            }
 
-            if ! grep -q '<svg' "$file"; then
+            grep -q '<svg' "$file" || {
               echo "::error::Invalid SVG output: $file"
               exit 1
-            fi
+            }
           done
 
       - name: Commit cards
