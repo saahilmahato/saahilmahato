@@ -30,9 +30,8 @@ I choose tools based on the problem at hand, with a particular interest in backe
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=saahilmahato)
+![Top Languages](https://ghstats.dev/api/langs?username=saahilmahato&max_langs=12&layout=vertical_list)
 ## 🔗 Find Me Elsewhere
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?style=flat-square&logo=google-chrome&logoColor=white)](http://saahilmahato.com.np)
